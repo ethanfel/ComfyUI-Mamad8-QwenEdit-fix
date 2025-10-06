@@ -1,0 +1,23 @@
+[project]
+name = "ComfyUI-Mamad8"
+version = "1.0.0"
+description = "Router nodes for optimized batch processing in ComfyUI"
+readme = "README.md"
+license = {text = "Apache-2.0"}
+authors = [
+    {name = "ComfyUI-Mamad8"}
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Topic :: Multimedia :: Graphics",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+[project.urls]
+Repository = "https://github.com/your-username/ComfyUI-Mamad8"
+Issues = "https://github.com/your-username/ComfyUI-Mamad8/issues"
+
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta" 
