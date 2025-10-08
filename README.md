@@ -1,3 +1,7 @@
+# Intro
+I'm not the author of the code, I can't maintain it but I was allowed to share it.
+
+
 # ComfyUI-Mamad8
 
 A ComfyUI custom node package that provides router nodes for optimized batch processing, preventing unnecessary model loading and unloading.
@@ -168,5 +172,6 @@ This significantly improves performance when generating multiple variations or r
   - **Solves the PyTorch lazy kernel compilation issue completely**
 
 ## License
+
 
 This project is released under the same license as ComfyUI. 
